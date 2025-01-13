@@ -18,7 +18,8 @@ permalink: /paper/
 
 ## Social Network Analysis
 **Magic: Investigation of large language model powered multi-agent in cognition, adaptability, rationality and collaboration** [[Paper]](https://aclanthology.org/2024.emnlp-main.416/)<br>
-**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]]()
+**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]](https://arxiv.org/abs/2402.17270)
+**S3: Social-network Simulation System with Large Language Model-Empowered Agents** [[Paper]](https://arxiv.org/abs/2307.14984)
 
 ## Document Mining
 
@@ -27,6 +28,12 @@ permalink: /paper/
 ## Cybersecurity Mining
 
 ## Trustworthy Issue
+**ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding** [[Paper]](https://aclanthology.org/2024.findings-acl.814.pdf)
+
+## Politician Issue
+**A Large-scale Empirical Study on Large Language Models for Election Prediction** [[Paper]](https://arxiv.org/abs/2412.15291)
+**Political-LLM: Large Language Models in Political Science** [[Paper]](https://arxiv.org/abs/2412.06864)
+**Towards More Accurate US Presidential Election via Multi-step Reasoning with Large Language Models** [[Paper]](https://arxiv.org/abs/2411.03321)
 
 ## Data-quality Issue
 
@@ -36,4 +43,8 @@ permalink: /paper/
 **LLMs can't plan, but can help planning in LLM-modulo frameworks** [[Paper]](https://arxiv.org/abs/2402.01817)<br>
 **DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency Management** [[Paper]](https://arxiv.org/abs/2405.20455)<br>
 **HYDRA: Model Factorization Framework for Black-Box LLM Personalization** [[Paper]](https://arxiv.org/abs/2402.08219)<br>
+**Multi-LLM Collaborative Caption Generation in Scientific Documents** [[Paper]](https://arxiv.org/abs/2501.02552)<br>
+**Agent Laboratory: Using LLM Agents as Research Assistants** [[Paper]](https://arxiv.org/abs/2501.04227)<br>
+**FILL IN THE BLANK: EXPLORING AND ENHANCING LLM CAPABILITIES FOR BACKWARD REASONING IN MATH WORD PROBLEMS** [[Paper]](https://openreview.net/pdf?id=ABIcBDLBVG)<br>
+
 
