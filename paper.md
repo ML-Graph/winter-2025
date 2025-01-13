@@ -18,8 +18,8 @@ permalink: /paper/
 
 ## Social Network Analysis
 **Magic: Investigation of large language model powered multi-agent in cognition, adaptability, rationality and collaboration** [[Paper]](https://aclanthology.org/2024.emnlp-main.416/)<br>
-**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]](https://arxiv.org/abs/2402.17270)
-**S3: Social-network Simulation System with Large Language Model-Empowered Agents** [[Paper]](https://arxiv.org/abs/2307.14984)
+**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]](https://arxiv.org/abs/2402.17270)<br>
+**S3: Social-network Simulation System with Large Language Model-Empowered Agents** [[Paper]](https://arxiv.org/abs/2307.14984)<br>
 
 ## Document Mining
 
@@ -28,12 +28,13 @@ permalink: /paper/
 ## Cybersecurity Mining
 
 ## Trustworthy Issue
-**ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding** [[Paper]](https://aclanthology.org/2024.findings-acl.814.pdf)
+**ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding** [[Paper]](https://aclanthology.org/2024.findings-acl.814.pdf)<br>
+**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing** [[Paper]](https://arxiv.org/abs/2411.16832)
 
 ## Politician Issue
-**A Large-scale Empirical Study on Large Language Models for Election Prediction** [[Paper]](https://arxiv.org/abs/2412.15291)
-**Political-LLM: Large Language Models in Political Science** [[Paper]](https://arxiv.org/abs/2412.06864)
-**Towards More Accurate US Presidential Election via Multi-step Reasoning with Large Language Models** [[Paper]](https://arxiv.org/abs/2411.03321)
+**A Large-scale Empirical Study on Large Language Models for Election Prediction** [[Paper]](https://arxiv.org/abs/2412.15291)<br>
+**Political-LLM: Large Language Models in Political Science** [[Paper]](https://arxiv.org/abs/2412.06864)<br>
+**Towards More Accurate US Presidential Election via Multi-step Reasoning with Large Language Models** [[Paper]](https://arxiv.org/abs/2411.03321)<br>
 
 ## Data-quality Issue
 
