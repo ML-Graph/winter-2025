@@ -17,7 +17,8 @@ permalink: /paper/
 **Rapid spatio-temporal flood prediction and uncertainty quantification using a deep learning method** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0022169419305323?casa_token=RWtRUTdUsLAAAAAA:xk7XvP3HR8M8bb2tpdgJxALKCfdMxxHHNAt9rD3q5tF4eoqClwbvzCetl90RQLjZiSj-2XBOcCOO)<br>
 
 ## Social Network Analysis
-****
+**Magic: Investigation of large language model powered multi-agent in cognition, adaptability, rationality and collaboration** [[Paper]](https://aclanthology.org/2024.emnlp-main.416/)<br>
+**Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas** [[Paper]]()
 
 ## Document Mining
 
@@ -30,3 +31,7 @@ permalink: /paper/
 ## Data-quality Issue
 
 ## Diversity Issue
+
+## LLM and Agent
+**LLMs can't plan, but can help planning in LLM-modulo frameworks** [[Paper]](https://arxiv.org/abs/2402.01817)<br>
+
