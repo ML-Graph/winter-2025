@@ -34,4 +34,6 @@ permalink: /paper/
 
 ## LLM and Agent
 **LLMs can't plan, but can help planning in LLM-modulo frameworks** [[Paper]](https://arxiv.org/abs/2402.01817)<br>
+**DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency Management** [[Paper]](https://arxiv.org/abs/2405.20455)<br>
+**HYDRA: Model Factorization Framework for Black-Box LLM Personalization** [[Paper]](https://arxiv.org/abs/2402.08219)<br>
 
