@@ -14,7 +14,7 @@ permalink: /project/
 - **Problem Statement**: 
   - What are the limitations of existing methods in addressing this problem?
 - **Contribution and Novelty**: 
-  - Given the previous limitations, what is your unique contribution and how does it provide novelty in solving the problem?
+  - Given the previous limitations, what is your unique contribution, and how does it provide novelty in solving the problem?
 
 ### 3. Data Collection and Analysis - 30%
 - **Dataset**: 
@@ -32,7 +32,7 @@ permalink: /project/
 - **Discussion**: 
   - Analyze and discuss the results of the experiments.
 
-Here is an example of one course project.
+Here is an example of one-course project.
 - [Project Report Template](https://ml-graph.github.io/winter-2025/static_files/Federated_Learning_for_Document_Classification.pdf)
 
 ## Power Network Mining
