@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
 ---
 **Course Materials:**
-- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/ANN2.pdf)
+- [Slides](https://ml-graph.github.io/winter-2025/static_files/presentations/slides/lecture8-ANN.pdf)
