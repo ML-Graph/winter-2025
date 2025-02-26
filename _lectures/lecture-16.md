@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-03
-title: Support Vector Machine <br> 
+title: SVM/PCA <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
