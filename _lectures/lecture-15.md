@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-26
-title: Statistical ML and Naive Bayes Classifier <br> 
+title: Naive Bayes Classifier <br> 
 tldr: "Short text to describe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
